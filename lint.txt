@@ -1,0 +1,13 @@
+
+> web_inspector@0.0.0 lint
+> eslint .
+
+
+C:\Users\Matias iOne\source\repost_vscode\Web_ISV_Toolkit\src\components\Sidebar.jsx
+  15:30  error  'Icon' is defined but never used  no-unused-vars
+
+C:\Users\Matias iOne\source\repost_vscode\Web_ISV_Toolkit\src\context\LangContext.jsx
+  41:14  error  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+✖ 2 problems (2 errors, 0 warnings)
+
